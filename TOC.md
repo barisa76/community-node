@@ -22,3 +22,4 @@
  1. /technical_plan
  1. /web
 	
+Bağış 0x357e0f1463d2dbc2a7a27625ffee569c8a1e7995
