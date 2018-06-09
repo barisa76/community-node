@@ -40,5 +40,6 @@ Telegram:
 [TRON Community Node & Super Representative](https://t.me/CommunityNode)
 
 Twitter:
-[@community_node](https://twitter.com/community_node)
-
+[@community_node] (https://twitter.com/community_node)0x357e0f1463d2dbc2a7a27625ffee569c8a1e7995
+Bağış için 
+0x357e0f1463d2dbc2a7a27625ffee569c8a1e7995
